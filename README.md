@@ -4,7 +4,7 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend Fashion-MNIST to serve as a direct drop-in 
 replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
-# code
+# Code details
 Two jupyter Notebooks are available in this repo :- One for CNN only model and other one for Dense layer only model.
 
 # My Experiment :- 
