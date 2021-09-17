@@ -7,9 +7,9 @@ Each example is a 28x28 grayscale image, associated with a label from 10 classes
 replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
 # Code details :-
-Solved this image classification problem using computer vision ,Convolutional neural network (CNN)/ Deep learning/ artifical intelligence.
-Programming language - Python3
-Deep learning Framework - Tensorflow backend and Keras api
+Solved this image classification problem using computer vision ,Convolutional neural network (CNN)/ Deep learning/ artifical intelligence ,
+Programming language - Python3 ,
+Deep learning Framework - Tensorflow backend and Keras api ,
 Two jupyter Notebooks are available in this repo :- One for CNN only model and other one for Dense layer only model.
 
 # My Experiment :- 
