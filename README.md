@@ -15,11 +15,15 @@ Trained the model from scratch and result are following:-
 1 - Achieved an accuracy of 88% in the test set with 4 CNN layer model and 1 dense layer only.
 2-  Achieved an accuracy of 76% in the test set with 5 Dense layer only.
 
-# Observation - key points for reducing overfitting:-
+# Observation - key points for reducing overfitting :-
 Batchnorm layer, 
 Droupout layer, 
 Image generator of diff shape, rotation and shear, 
 Simple model with fewer parameter
-Random split of train and validation set.
+A good split of train and validation set.
 
-Reach me here - g25thari@gmail.com
+# Future scope �
+Trying to achieve an accuray close to 95% without transfer learning and with only 5000 training samples.
+
+# Reach me here 📧
+g25thari@gmail.com
