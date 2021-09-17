@@ -25,5 +25,5 @@ A good split of train and validation set.
 # Future scope �
 Trying to achieve an accuray close to 95% without transfer learning and with only 5000 training samples.
 
-# Reach me here 📧
-g25thari@gmail.com
+# Reach me here
+g25thari@gmail.com 📧
